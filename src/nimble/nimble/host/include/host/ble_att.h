@@ -104,7 +104,7 @@ struct os_mbuf;
 #define BLE_ATT_OP_WRITE_CMD                0x52
 #define BLE_ATT_OP_SIGNED_WRITE_CMD         0xD2
 
-#define BLE_ATT_ATTR_MAX_LEN                512
+#define BLE_ATT_ATTR_MAX_LEN                5120
 
 #define BLE_ATT_F_READ                      0x01
 #define BLE_ATT_F_WRITE                     0x02
